@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Maria Luiza
 
-
-Me chamo Maria Luiza Teodoro, tenho 19 anos e sou de Manaus. Concluí o ensino médio integrado ao curso técnico em Informática pelo IFPA. Atualmente, estou cursando Sistemas de Informação. Tenho interesse em tecnologia e estou sempre buscando aprender mais e desenvolver projetos na área de programação e desenvolvimento de software.
+Me chamo Maria Luiza Teodoro, tenho 19 anos e sou de Manaus. Concluí o ensino médio integrado ao curso Técnico em Informática pelo IFPA. Atualmente, curso Sistemas de Informação. Tenho interesse em tecnologia e estou sempre buscando aprender mais e desenvolver projetos na área de software.
 
 ---
 
